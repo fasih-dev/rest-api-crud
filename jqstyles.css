@@ -1,0 +1,18 @@
+.recipe {
+  border-bottom: 2px solid black;
+  margin-bottom: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+.title{
+  text-align: center;
+}
+
+.container1{
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
